@@ -1,0 +1,49 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+h1
+{
+  font-size: 48px;
+  color: #043D49;
+  margin-left: 400px;
+
+}
+.dice-wrapper
+{
+  display: flex;
+  padding: 50px;
+  margin-left: 400px;
+}
+.dice1
+{
+  font-size: 48px;
+  border: 2px solid #0821F7;
+  color: #08F708;
+
+}
+
+.dice2
+{
+  font-size: 48px;
+  border: 2px solid #08F708;
+  color: #0821F7;
+}
+.add
+{
+  font-size: 48px;
+}
+
+.shake
+{
+  margin-left: 450px;
+  font-size: 58px;
+  color: #248905;
+}
+.result {
+  font-size: 6em;
+  color: #F71106;
+  margin-left: 500px;
+  padding: 20px;
+}
